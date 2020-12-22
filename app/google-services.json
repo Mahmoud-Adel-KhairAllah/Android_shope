@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "786444939058",
+    "firebase_url": "https://proud-outpost-238708.firebaseio.com",
+    "project_id": "proud-outpost-238708",
+    "storage_bucket": "proud-outpost-238708.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:786444939058:android:ea851f3220d6e14477b12b",
+        "android_client_info": {
+          "package_name": "com.example.shopingonline"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "786444939058-g2l93l2mo9miu68b5bdhspst9h7qfvvh.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.shopingonline",
+            "certificate_hash": "b78b1330cae863cda500ded4237b46886ab356b1"
+          }
+        },
+        {
+          "client_id": "786444939058-b3hp7hoiaprehp200t42vjvh90vta56r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDyv_nEU2X0N0JcPtLmuOTNMlXTBq9XjJ0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "786444939058-b3hp7hoiaprehp200t42vjvh90vta56r.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
